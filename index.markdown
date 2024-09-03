@@ -5,5 +5,4 @@
 layout: home
 ---
 
-# Welcome to activeness!
 To menu is markdown files on the let's see what NurMi.
