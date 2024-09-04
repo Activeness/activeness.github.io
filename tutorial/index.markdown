@@ -1,4 +1,4 @@
-# Tutorial
+## Tutorial
 At least a step how to use. Wanna see step?
 ### Step 1
 At bot is GitHub App click an settings.
